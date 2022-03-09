@@ -8,7 +8,10 @@
 
 The guide is written in [Markdown][md-lang] and uses [Jekyll][jekyll] via
 [GitHub's Pages][gh-pages] facility to render itself upon pushing to the `gh-pages`
-branch.
+branch. It has been forked for use by F45 Training, and has been modified to fit 
+the preferences and needs of that company. Only the English translation is
+considered 'official', as we don't have anyone on the team who can manage
+the other languages.
 
 ## Sources
 
